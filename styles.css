@@ -1,0 +1,211 @@
+.navbar{
+  padding:5%;
+}
+
+
+/* Home */
+.home{
+  border-radius: 100%;
+  width:550px;
+  height:500px;
+}
+
+
+.titlehead{
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Spartan', sans-serif;
+  padding-top: 10%;
+}
+.titleimg{
+  position: relative;
+  left:35%;
+  padding: 7% 2%;
+
+}
+hr{
+  border-width: 30px;
+  width:30%;
+  border-radius: 50px;
+  border-color: #00b7ff;
+}
+
+.green {
+  height: 10em;
+  width: 10em;
+  background-color: #7ed957;
+  border-radius: 50%;
+  display: inline-block;
+  position:absolute;
+  bottom:1%;
+  left:10%;
+  z-index: -1;
+}
+.blue {
+  height: 12em;
+  width: 12em;
+  background-color: #00b7ff;
+  border-radius: 50%;
+  display: inline-block;
+  position:absolute;
+  right:7%;
+  z-index: -1;
+}
+.red {
+  height: 15em;
+  width: 15em;
+  background-color: #ff1616;
+  border-radius: 50%;
+  display: inline-block;
+  position:absolute;
+  top:-1%;
+  right:-3%;
+  z-index: -1;
+}
+.yellow {
+  height: 20em;
+  width: 20em;
+  background-color: #ffed59;
+  border-radius: 50%;
+  display: inline-block;
+  position:absolute;
+  top:15%;
+  left:-5%;
+  z-index: -1;
+
+
+
+
+}
+
+/* Groups*/
+.groups{
+  color:#fff;
+  padding: 7%;
+  background-color: #000;
+  text-align: right;
+  z-index: -1;
+}
+.grpimg{
+  position: relative;
+  right:25%;
+  border-radius: 100%;
+  width:300px;
+  height:300px;
+  padding: 5%;
+}
+
+.grouphead{
+  font-size: 2.5rem;
+  font-family: 'Oswald', sans-serif;
+  padding: 5%;
+}
+.grouptext{
+  font-size: 1.3rem;
+
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+}
+
+.group1{
+  height: 18em;
+  width:18em;
+  background-color: #6fe0c9;
+  border-radius: 50%;
+  display: inline-block;
+  position:absolute;
+
+  right:25%;
+
+
+}
+.group2{
+  height: 18em;
+  width:18em;
+  background-color:#cedbdc;
+  border-radius: 50%;
+  display: inline-block;
+  position:absolute;
+
+  right:25%;
+
+
+}
+.group3{
+  height: 18em;
+  width:18em;
+  background-color: #ffd985;
+  border-radius: 50%;
+  display: inline-block;
+  position:absolute;
+
+  right:25%;
+
+
+}
+/* Our work */
+.workhead{
+  font-family: 'Spartan', sans-serif;
+  font-size: 5rem;
+
+}
+.worktext{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.3rem;
+  line-height: 2;
+}
+
+.workimg{
+  width:30%;
+}
+.work{
+  padding: 5%;
+  position: relative;
+
+}
+.brush{
+  position: absolute;
+  z-index: -1;
+}
+.y{
+  bottom:30%;
+  right:10%;
+}
+.r{
+  bottom:5%;
+  left:-5%;
+}
+
+/* Applications */
+.applications{
+  position:relative;
+}
+.apphead{
+padding:10% 10%;
+
+
+}
+
+
+/* contact */
+.contact{
+  background-color:  #000;
+  margin: 0;
+ }
+.contacthead{
+  color:#fff;
+    font-family: 'Spartan', sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  padding: 7%;
+
+
+}
+.social{
+  width:3%;
+
+
+}
+.call{
+  width:5%;
+}
